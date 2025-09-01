@@ -4,6 +4,6 @@ At a high level, it works by hooking keystrokes at the operating system level an
 
 This tool allows security professionals and red teams to safely observe user interactions with sensitive pages in a controlled lab environment, uncovering potential vulnerabilities in session handling, credential storage, or input validation. Insights gained from LogMyBrowser can help organizations proactively harden their systems against real-world attacks, demonstrating the value of proactive security testing.
 
-To make it easier to see the tool in action, a demo [video](./'LogMyBrowser - Demo.mp4') has been included in this repository showing how LogMyBrowser monitors browser interactions based on keyword triggers.
+To make it easier to see the tool in action, a demo [video](./LogMyBrowser-Demo.mp4) has been included in this repository showing how LogMyBrowser monitors browser interactions based on keyword triggers.
 
 ⚠️ Important: This tool is intended strictly for ethical security research, training, and testing. Use in unauthorized environments or for malicious purposes is strictly prohibited.
