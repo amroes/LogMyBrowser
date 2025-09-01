@@ -1,4 +1,4 @@
-Have you ever wondered how attackers could exploit login pages or payment forms to capture sensitive interactions? LogMyBrowser is a research project and ethical security tool that allows monitoring of browser activity on any page by specifying keywords, not just login forms.
+Have you ever heard about browser hooking? Have you ever wondered how attackers could exploit login pages or payment forms to capture sensitive interactions?Have you ever wondered how attackers could exploit login pages or payment forms to capture sensitive interactions? LogMyBrowser is a personal research project and tool that allows monitoring of browser activity on any page by specifying keywords, not just login forms. While LogMyBrowser is not browser hooking at its core, it demonstrates a related concept: keystroke hooking associated with browser windows.
 
 At a high level, it works by hooking keystrokes at the operating system level and associating them with active browser windows matching your defined keywords. During controlled testing, it was not detected by standard antivirus solutions.
 
